@@ -12,6 +12,6 @@ Simply clone the project, unzip the data file and work with the notebook!
 
 # Visualizations 
 
-http://prntscr.com/m3wnwe
-http://prntscr.com/m3wo1p
-http://prntscr.com/m3wo6f
+1. http://prntscr.com/m3wnwe
+2. http://prntscr.com/m3wo1p
+3. http://prntscr.com/m3wo6f
