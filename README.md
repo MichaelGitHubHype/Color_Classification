@@ -12,6 +12,7 @@ Simply clone the project, unzip the data file and work with the notebook!
 
 # Visualizations 
 
-1. http://prntscr.com/m3wnwe
-2. http://prntscr.com/m3wo1p
-3. http://prntscr.com/m3wo6f
+![visualization](https://user-images.githubusercontent.com/34219748/57171233-69677300-6de0-11e9-96f6-620b56a86e07.png)
+
+![visualization_two](https://user-images.githubusercontent.com/34219748/57171237-76846200-6de0-11e9-8ca4-a2bae2b918d5.png)
+![visulization_three](https://user-images.githubusercontent.com/34219748/57171352-949e9200-6de1-11e9-8159-30fb20d6a46a.png)
